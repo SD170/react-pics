@@ -1,3 +1,6 @@
+# Description
+A simple picture fetching app made using React, unsplash api. CSS Grids for styling
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
